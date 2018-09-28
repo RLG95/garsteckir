@@ -1,0 +1,10 @@
+body {
+    background-color: #DCDCDC;
+    color: #000000;
+    font-family: courier, arial, times-new-roman
+    }
+    span.website {font-style:italic}
+    span.website {color:blue}
+    h1.header {font-style:italic}
+    h3.closer {font-style:italic}
+    h3.closer {color:dimgray}
